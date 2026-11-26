@@ -1,0 +1,114 @@
+[
+ {
+  "city": "alexandria",
+  "name": "Roushdy Orange Shop",
+  "name_ar": "فرع أورنج رشدي",
+  "address": "7 Syria street - Roushdy, Alexandria",
+  "address_ar": "7 شارع سوريا - رشدي، الإسكندرية",
+  "accepts": [
+   "e-waste"
+  ],
+  "owner_map_url": "https://maps.app.goo.gl/YLgBg2hAGZoATfjd8",
+  "source": "One Circle collection locator (owner list), read 25 Nov 2026",
+  "source_ar": "دليل نقاط التجميع بتاع One Circle (قايمة الجهة نفسها)، اتقرا 25 نوفمبر 2026",
+  "source_url": "https://onecircle-eg.com/collection-locator/"
+ },
+ {
+  "city": "alexandria",
+  "name": "Alex City Light (Orange, City Light Mall)",
+  "name_ar": "أليكس سيتي لايت (أورنج، سيتي لايت مول)",
+  "address": "65 Mostafa Kamel Street, El Seyouf, City Light Mall, Alexandria",
+  "address_ar": "65 شارع مصطفى كامل، السيوف، سيتي لايت مول، الإسكندرية",
+  "accepts": [
+   "e-waste"
+  ],
+  "owner_map_url": "https://maps.app.goo.gl/XuJo12BCC6vFFqRk7",
+  "source": "One Circle collection locator (owner list), read 25 Nov 2026",
+  "source_ar": "دليل نقاط التجميع بتاع One Circle (قايمة الجهة نفسها)، اتقرا 25 نوفمبر 2026",
+  "source_url": "https://onecircle-eg.com/collection-locator/"
+ },
+ {
+  "city": "alexandria",
+  "name": "Saint Stefano Orange Shop",
+  "name_ar": "فرع أورنج سان ستيفانو",
+  "address": null,
+  "address_ar": null,
+  "accepts": [
+   "e-waste"
+  ],
+  "owner_map_url": "https://maps.app.goo.gl/AuAvHfqPU5QJPNb9A",
+  "source": "One Circle collection locator (owner list), read 25 Nov 2026",
+  "source_ar": "دليل نقاط التجميع بتاع One Circle (قايمة الجهة نفسها)، اتقرا 25 نوفمبر 2026",
+  "source_url": "https://onecircle-eg.com/collection-locator/"
+ },
+ {
+  "city": "cairo",
+  "name": "Maadi Orange Shop",
+  "name_ar": "فرع أورنج المعادي",
+  "address": "49 El Laselky St., Maadi, Cairo",
+  "address_ar": "49 شارع اللاسلكي، المعادي، القاهرة",
+  "accepts": [
+   "e-waste"
+  ],
+  "owner_map_url": "https://maps.app.goo.gl/baCeNnvwga2rfHZK6",
+  "source": "One Circle collection locator (owner list), read 25 Nov 2026",
+  "source_ar": "دليل نقاط التجميع بتاع One Circle (قايمة الجهة نفسها)، اتقرا 25 نوفمبر 2026",
+  "source_url": "https://onecircle-eg.com/collection-locator/"
+ },
+ {
+  "city": "cairo",
+  "name": "Ismailia Square Orange Shop",
+  "name_ar": "فرع أورنج ميدان الإسماعيلية",
+  "address": "2 El Ismailia Square, Heliopolis, Cairo",
+  "address_ar": "2 ميدان الإسماعيلية، مصر الجديدة، القاهرة",
+  "accepts": [
+   "e-waste"
+  ],
+  "owner_map_url": "https://maps.app.goo.gl/eSYxjzmrDiurbdQH8",
+  "source": "One Circle collection locator (owner list), read 25 Nov 2026",
+  "source_ar": "دليل نقاط التجميع بتاع One Circle (قايمة الجهة نفسها)، اتقرا 25 نوفمبر 2026",
+  "source_url": "https://onecircle-eg.com/collection-locator/"
+ },
+ {
+  "city": "cairo",
+  "name": "Katameya Downtown Mall Orange Shop",
+  "name_ar": "فرع أورنج كاتيميا داون تاون مول",
+  "address": "Katameya Downtown Mall, Cairo",
+  "address_ar": "كاتيميا داون تاون مول، القاهرة",
+  "accepts": [
+   "e-waste"
+  ],
+  "owner_map_url": "https://maps.app.goo.gl/8zdjZuF9oHkjmkmR8",
+  "source": "One Circle collection locator (owner list), read 25 Nov 2026",
+  "source_ar": "دليل نقاط التجميع بتاع One Circle (قايمة الجهة نفسها)، اتقرا 25 نوفمبر 2026",
+  "source_url": "https://onecircle-eg.com/collection-locator/"
+ },
+ {
+  "city": "cairo",
+  "name": "Orange Zamalek Shop",
+  "name_ar": "فرع أورنج الزمالك",
+  "address": "6B Brazil St., Zamalek, Cairo",
+  "address_ar": "6ب شارع البرازيل، الزمالك، القاهرة",
+  "accepts": [
+   "e-waste"
+  ],
+  "owner_map_url": "https://maps.app.goo.gl/gEvSJbvGDrfnx8Ca9",
+  "source": "One Circle collection locator (owner list), read 25 Nov 2026",
+  "source_ar": "دليل نقاط التجميع بتاع One Circle (قايمة الجهة نفسها)، اتقرا 25 نوفمبر 2026",
+  "source_url": "https://onecircle-eg.com/collection-locator/"
+ },
+ {
+  "city": "cairo",
+  "name": "Uptown Cairo Shop (Orange)",
+  "name_ar": "فرع أورنج أبتاون كايرو",
+  "address": "Uptown Cairo (Uptown), Cairo",
+  "address_ar": "أبتاون كايرو، القاهرة",
+  "accepts": [
+   "e-waste"
+  ],
+  "owner_map_url": "https://maps.app.goo.gl/fA7RDetdDtdk8uh96",
+  "source": "One Circle collection locator (owner list), read 25 Nov 2026",
+  "source_ar": "دليل نقاط التجميع بتاع One Circle (قايمة الجهة نفسها)، اتقرا 25 نوفمبر 2026",
+  "source_url": "https://onecircle-eg.com/collection-locator/"
+ }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "name": "Orange Nasr City Shop",
+    "name_ar": "فرع أورنج مدينة نصر",
+    "address": "80 Abbas El Akkad St., Nasr City, Cairo",
+    "address_ar": "80 شارع عباس العقاد، مدينة نصر، القاهرة",
+    "lat": 30.0575668,
+    "lon": 31.3382167,
+    "materials": [
+      "e-waste"
+    ],
+    "note_en": "Listed by the One Circle collection locator as an e-waste drop-off point (read 25 Nov 2026). Hours and current acceptance are not confirmed. Check before you go.",
+    "note_ar": "مذكور في دليل نقاط التجميع بتاع One Circle كنقطة استلام مخلفات إلكترونية (اتقرا 25 نوفمبر 2026). المواعيد وهل لسه بيستلم مش مؤكدين. اتأكد قبل ما تروح.",
+    "source": "Place identity and address: One Circle locator and Orange Egypt shop page. Coordinate: OpenStreetMap node 3665822422 (shop=mobile_phone, Orange, 80 Abbas El Akkad) (ODbL), matched to the same street address",
+    "source_ar": "اسم المكان والعنوان: دليل One Circle وصفحة فرع أورنج. الإحداثية: OpenStreetMap node 3665822422 (shop=mobile_phone, Orange, 80 Abbas El Akkad) (ODbL) بنفس عنوان الشارع",
+    "source_url": "https://www.openstreetmap.org/node/3665822422"
+  },
+  {
+    "name": "Big Scrappers Nasr City warehouse",
+    "name_ar": "مخزن بيج سكرابرز مدينة نصر",
+    "address": "1 Hamada Abou Al Nagar St, Nasr City, Cairo 18711",
+    "address_ar": "1 شارع حمادة أبو النجار، مدينة نصر، القاهرة",
+    "lat": 30.06478564515043,
+    "lon": 31.38575077056885,
+    "materials": [],
+    "note_en": "Listed by Big Scrappers as one of its collection centers where you can drop off materials (page read 25 Nov 2026). The page does not say which materials this branch takes or its opening hours. Call or check the app first. Big Scrappers hotline: 01099006066.",
+    "note_ar": "مذكور عند بيج سكرابرز كأحد مراكز التجميع اللي تقدر تسلّم فيها المواد (الصفحة اتقرت 25 نوفمبر 2026). الصفحة مش بتقول الفرع ده بيستلم إيه ولا مواعيده. اتصل أو اتأكد قبل ما تروح. خط بيج سكرابرز: 01099006066.",
+    "source": "Identity, address and map point published by the owner, Big Scrappers collection centers page (coordinate is the owner's own map link)",
+    "source_ar": "الاسم والعنوان والموقع منشورين من المالك، صفحة مراكز التجميع عند بيج سكرابرز (الإحداثية من رابط الخريطة بتاع الشركة نفسها)",
+    "source_url": "https://bigscrappers.com/stores"
+  },
+  {
+    "name": "Big Scrappers New Cairo hub",
+    "name_ar": "مركز بيج سكرابرز القاهرة الجديدة",
+    "address": "Second Sector, Yasmeen Districts, Cairo 11865",
+    "address_ar": "القطاع الثاني، حي الياسمين، القاهرة",
+    "lat": 30.028083050581905,
+    "lon": 31.455745697021488,
+    "materials": [],
+    "note_en": "Listed by Big Scrappers as one of its collection centers where you can drop off materials (page read 25 Nov 2026). The page does not say which materials this branch takes or its opening hours. Call or check the app first. Big Scrappers hotline: 01099006066.",
+    "note_ar": "مذكور عند بيج سكرابرز كأحد مراكز التجميع اللي تقدر تسلّم فيها المواد (الصفحة اتقرت 25 نوفمبر 2026). الصفحة مش بتقول الفرع ده بيستلم إيه ولا مواعيده. اتصل أو اتأكد قبل ما تروح. خط بيج سكرابرز: 01099006066.",
+    "source": "Identity, address and map point published by the owner, Big Scrappers collection centers page (coordinate is the owner's own map link)",
+    "source_ar": "الاسم والعنوان والموقع منشورين من المالك، صفحة مراكز التجميع عند بيج سكرابرز (الإحداثية من رابط الخريطة بتاع الشركة نفسها)",
+    "source_url": "https://bigscrappers.com/stores"
+  },
+  {
+    "name": "Ismailia Square Orange Shop",
+    "name_ar": "فرع أورنج ميدان الإسماعيلية",
+    "address": "2 El Ismailia Square, Heliopolis, Cairo",
+    "address_ar": "2 ميدان الإسماعيلية، مصر الجديدة، القاهرة",
+    "lat": 30.0959,
+    "lon": 31.3345,
+    "materials": [
+      "e-waste"
+    ],
+    "note_en": "E-waste drop-off per One Circle (read 25 Nov 2026). Pin is at the square (64 m from its centre). Hours and acceptance not confirmed.",
+    "note_ar": "نقطة استلام مخلفات إلكترونية حسب One Circle (اتقرا 25 نوفمبر 2026). الدبوس عند الميدان (64 م من منتصفه). المواعيد وهل لسه بيستلم مش مؤكدين.",
+    "source": "One Circle list (identity, e-waste); Orange store page (address, coordinate)",
+    "source_ar": "قايمة One Circle (الاسم وإنه بيستلم)؛ صفحة الفرع عند أورنج (العنوان والإحداثية)",
+    "source_url": "https://store.orange.eg/en/orange-ismailia-square-shop.html"
+  },
+  {
+    "name": "Orange Zamalek Shop",
+    "name_ar": "فرع أورنج الزمالك",
+    "address": "6B Brazil St., Zamalek, Cairo",
+    "address_ar": "6ب شارع البرازيل، الزمالك، القاهرة",
+    "lat": 30.0608,
+    "lon": 31.2225,
+    "materials": [
+      "e-waste"
+    ],
+    "note_en": "E-waste drop-off per One Circle (read 25 Nov 2026). Building-level pin (25 m from building 6 in OpenStreetMap). Hours and acceptance not confirmed.",
+    "note_ar": "نقطة استلام مخلفات إلكترونية حسب One Circle (اتقرا 25 نوفمبر 2026). الدبوس على مستوى المبنى (25 م من مبنى 6 في OpenStreetMap). المواعيد وهل لسه بيستلم مش مؤكدين.",
+    "source": "One Circle list (identity, e-waste); Orange store page (address, coordinate)",
+    "source_ar": "قايمة One Circle (الاسم وإنه بيستلم)؛ صفحة الفرع عند أورنج (العنوان والإحداثية)",
+    "source_url": "https://store.orange.eg/ar/orange-zamalak-shop.html"
+  },
+  {
+    "name": "Uptown Cairo Shop (Orange)",
+    "name_ar": "فرع أورنج أبتاون كايرو",
+    "address": "Orange Mokattam, Uptown Cairo Compound plaza, behind Carrefour Market, Cairo",
+    "address_ar": "أبتاون كايرو، القاهرة",
+    "lat": 30.025199,
+    "lon": 31.29174,
+    "materials": [
+      "e-waste"
+    ],
+    "note_en": "E-waste drop-off per One Circle (read 25 Nov 2026). Pin is in the Uptown Cairo compound plaza. Hours and acceptance not confirmed.",
+    "note_ar": "نقطة استلام مخلفات إلكترونية حسب One Circle (اتقرا 25 نوفمبر 2026). الدبوس في بلازا كمبوند أبتاون كايرو. المواعيد وهل لسه بيستلم مش مؤكدين.",
+    "source": "One Circle list (identity, e-waste); Orange store page (address, coordinate)",
+    "source_ar": "قايمة One Circle (الاسم وإنه بيستلم)؛ صفحة الفرع عند أورنج (العنوان والإحداثية)",
+    "source_url": "https://store.orange.eg/en/orange-one-up-town-cairo.html"
+  },
+  {
+    "name": "Katameya Downtown Mall Orange Shop",
+    "name_ar": "فرع أورنج كاتيميا داون تاون مول",
+    "address": "90 St., S1 building, 1st floor, shop 1, Katameya Downtown Mall, Cairo",
+    "address_ar": "كاتيميا داون تاون مول، القاهرة",
+    "lat": 30.0173394,
+    "lon": 31.4124637,
+    "materials": [
+      "e-waste"
+    ],
+    "note_en": "E-waste drop-off per One Circle (read 25 Nov 2026). Pin is the mall's OpenStreetMap point (floor 1, shop 1 inside), not the shop door. Hours and acceptance not confirmed.",
+    "note_ar": "نقطة استلام مخلفات إلكترونية حسب One Circle (اتقرا 25 نوفمبر 2026). الدبوس على نقطة المول في OpenStreetMap (الدور الأول، محل 1 جواه) مش باب المحل. المواعيد وهل لسه بيستلم مش مؤكدين.",
+    "source": "One Circle list (identity, e-waste); Orange store page (address); OpenStreetMap mall point (coordinate)",
+    "source_ar": "قايمة One Circle (الاسم وإنه بيستلم)؛ صفحة الفرع عند أورنج (العنوان)؛ نقطة المول في OpenStreetMap (الإحداثية)",
+    "source_url": "https://store.orange.eg/en/orange-new-cairo-kattamia-shop.html"
+  },
+  {
+    "name": "Roushdy Orange Shop",
+    "name_ar": "فرع أورنج رشدي",
+    "address": "7 Syria St., Roushdy, Alexandria",
+    "address_ar": "7 شارع سوريا - رشدي، الإسكندرية",
+    "lat": 31.2332,
+    "lon": 29.9468,
+    "materials": [
+      "e-waste"
+    ],
+    "note_en": "E-waste drop-off per One Circle (read 25 Nov 2026). Street-level pin (74 m from Syria St in OpenStreetMap). Hours and acceptance not confirmed.",
+    "note_ar": "نقطة استلام مخلفات إلكترونية حسب One Circle (اتقرا 25 نوفمبر 2026). الدبوس على مستوى الشارع (74 م من شارع سوريا في OpenStreetMap). المواعيد وهل لسه بيستلم مش مؤكدين.",
+    "source": "One Circle list (identity, e-waste); Orange store page (address, coordinate)",
+    "source_ar": "قايمة One Circle (الاسم وإنه بيستلم)؛ صفحة الفرع عند أورنج (العنوان والإحداثية)",
+    "source_url": "https://store.orange.eg/en/orange-roshdy-shop.html"
+  },
+  {
+    "name": "Saint Stefano Orange Shop",
+    "name_ar": "فرع أورنج سان ستيفانو",
+    "address": "San Stefano Mall, first floor, shop 107, Alexandria",
+    "address_ar": "سان ستيفانو مول، الدور الأول، محل 107، الإسكندرية",
+    "lat": 31.245003,
+    "lon": 29.966956,
+    "materials": [
+      "e-waste"
+    ],
+    "note_en": "E-waste drop-off per One Circle (read 25 Nov 2026). Pin is at the mall (floor 1, shop 107). Orange's locator has one San Stefano shop. Hours and acceptance not confirmed.",
+    "note_ar": "نقطة استلام مخلفات إلكترونية حسب One Circle (اتقرا 25 نوفمبر 2026). الدبوس عند المول (الدور الأول، محل 107). مفيش عند أورنج غير فرع سان ستيفانو واحد. المواعيد وهل لسه بيستلم مش مؤكدين.",
+    "source": "One Circle list (identity, e-waste); Orange store page (address, coordinate)",
+    "source_ar": "قايمة One Circle (الاسم وإنه بيستلم)؛ صفحة الفرع عند أورنج (العنوان والإحداثية)",
+    "source_url": "https://store.orange.eg/en/orange-san-stefano-shop.html"
+  },
+  {
+    "name": "Alex City Light (Orange, City Light Mall)",
+    "name_ar": "أليكس سيتي لايت (أورنج، سيتي لايت مول)",
+    "address": "65 Mostafa Kamel St., El Seyouf, City Light Mall, Alexandria",
+    "address_ar": "65 شارع مصطفى كامل، السيوف، سيتي لايت مول، الإسكندرية",
+    "lat": 31.2452263,
+    "lon": 29.9910141,
+    "materials": [
+      "e-waste"
+    ],
+    "note_en": "E-waste drop-off per One Circle (read 25 Nov 2026). Pin is at the mall. Orange is the only source for this point. Hours and acceptance not confirmed.",
+    "note_ar": "نقطة استلام مخلفات إلكترونية حسب One Circle (اتقرا 25 نوفمبر 2026). الدبوس عند المول. أورنج هي المصدر الوحيد للنقطة دي. المواعيد وهل لسه بيستلم مش مؤكدين.",
+    "source": "One Circle list (identity, e-waste); Orange store page (address, coordinate)",
+    "source_ar": "قايمة One Circle (الاسم وإنه بيستلم)؛ صفحة الفرع عند أورنج (العنوان والإحداثية)",
+    "source_url": "https://store.orange.eg/en/orange-alex-city-light-shop.html"
+  },
+  {
+    "name": "Toby City Stars Mall",
+    "name_ar": "توبي سيتي ستارز مول",
+    "address": "City Stars Mall, phase 1, floor 1, shop 128, gate 5, Nasr City, Cairo",
+    "address_ar": "سيتي ستارز مول، المرحلة الأولى، الدور الأول، محل 128، بوابة 5، مدينة نصر، القاهرة",
+    "lat": 30.074112,
+    "lon": 31.346315,
+    "materials": [
+      "e-waste"
+    ],
+    "note_en": "Takes routers, landline phones, laptops, mobiles and tablets per Toby (read 25 Nov 2026). The pin is the mall, not the shop. Hours and acceptance not confirmed.",
+    "note_ar": "بيستلم راوتر وتليفون أرضي ولابتوب وموبايل وتابلت حسب توبي (اتقرا 25 نوفمبر 2026). الدبوس على المول مش على المحل. المواعيد وهل لسه بيستلم مش مؤكدين.",
+    "source": "Toby branch list (branch, address, devices); Toby store locator (coordinate)",
+    "source_ar": "قايمة فروع توبي (الفرع والعنوان والأجهزة)؛ محدد فروع توبي (الإحداثية)",
+    "source_url": "https://2b.com.eg/en/mw-store-locator"
+  },
+  {
+    "name": "Toby Roxy",
+    "name_ar": "توبي روكسي",
+    "address": "13 El Khalifa El Maamoun St., Roxy, Heliopolis, Cairo",
+    "address_ar": "13 شارع الخليفة المأمون، روكسي، مصر الجديدة، القاهرة",
+    "lat": 30.087011,
+    "lon": 31.309216,
+    "materials": [
+      "e-waste"
+    ],
+    "note_en": "Takes routers, landline phones, laptops, mobiles and tablets per Toby (read 25 Nov 2026). Toby's point is at building 13 on the street (OpenStreetMap agrees). Hours and acceptance not confirmed.",
+    "note_ar": "بيستلم راوتر وتليفون أرضي ولابتوب وموبايل وتابلت حسب توبي (اتقرا 25 نوفمبر 2026). نقطة توبي عند مبنى 13 في الشارع (OpenStreetMap متفق). المواعيد وهل لسه بيستلم مش مؤكدين.",
+    "source": "Toby branch list (branch, address, devices); Toby store locator (coordinate)",
+    "source_ar": "قايمة فروع توبي (الفرع والعنوان والأجهزة)؛ محدد فروع توبي (الإحداثية)",
+    "source_url": "https://2b.com.eg/en/mw-store-locator"
+  },
+  {
+    "name": "Toby Al Bustan Mall",
+    "name_ar": "توبي مول البستان",
+    "address": "Al Boustan Shopping Center, 1st floor, Bab El Louq, Cairo",
+    "address_ar": "مركز البستان التجاري، الدور الأول، باب اللوق، القاهرة",
+    "lat": 30.045484,
+    "lon": 31.23873,
+    "materials": [
+      "e-waste"
+    ],
+    "note_en": "Takes routers, landline phones, laptops, mobiles and tablets per Toby (read 25 Nov 2026). Pin is in the shopping center, floor 1 (OpenStreetMap agrees). Hours and acceptance not confirmed.",
+    "note_ar": "بيستلم راوتر وتليفون أرضي ولابتوب وموبايل وتابلت حسب توبي (اتقرا 25 نوفمبر 2026). الدبوس داخل المركز التجاري، الدور الأول (OpenStreetMap متفق). المواعيد وهل لسه بيستلم مش مؤكدين.",
+    "source": "Toby branch list (branch, address, devices); Toby store locator (coordinate)",
+    "source_ar": "قايمة فروع توبي (الفرع والعنوان والأجهزة)؛ محدد فروع توبي (الإحداثية)",
+    "source_url": "https://2b.com.eg/en/mw-store-locator"
+  }
+]

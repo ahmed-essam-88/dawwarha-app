@@ -1,0 +1,1 @@
+Native Android libraries are not included. Run `scripts/fetch_ort_android_libs.sh` from the bundle root (downloads ONNX Runtime 1.32.0 from Maven Central, checks sha1/sha256, installs them). Desktop libraries (linux/macos/windows) were removed; desktop tests need a libonnxruntime on LD_LIBRARY_PATH.

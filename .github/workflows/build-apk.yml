@@ -1,0 +1,78 @@
+name: Build APK
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'docs/**'
+      - '*.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+            $ANDROID_HOME/ndk
+            ~/.pub-cache
+          key: build-${{ runner.os }}-${{ hashFiles('**/*.gradle*', '**/gradle-wrapper.properties', '**/pubspec.lock') }}
+          restore-keys: build-${{ runner.os }}-
+
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.50.1'
+          channel: stable
+          cache: true
+
+      - name: Fetch ONNX Runtime Android libraries
+        run: scripts/fetch_ort_android_libs.sh
+
+      - name: Tune Gradle for CI runner
+        # The repo gradle.properties is tuned for ~2 GB local machines
+        # (320 MB heap, serial GC, 1 worker). CI runners have 16 GB, so
+        # override the JVM settings here instead of changing the repo file.
+        run: |
+          sed -i \
+            -e 's/^org.gradle.jvmargs=.*/org.gradle.jvmargs=-Xmx4g -XX:MaxMetaspaceSize=512m -XX:+UseParallelGC/' \
+            -e 's/^org.gradle.workers.max=.*/org.gradle.workers.max=2/' \
+            source/android/gradle.properties
+
+      - name: Build release APK
+        # Firebase login needs a real web API key for project wasteapp-d683c.
+        # Store it as the repo secret FIREBASE_API_KEY; without it the APK
+        # still builds but login is disabled (see BUILD.md).
+        # CI builds arm64 only to keep the build inside the job timeout;
+        # scripts/build_apk.sh still defaults to both ABIs for local builds.
+        env:
+          FIREBASE_API_KEY: ${{ secrets.FIREBASE_API_KEY || 'ci-placeholder-no-login' }}
+          TARGET_PLATFORMS: android-arm64
+        run: scripts/build_apk.sh
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dawwarha-apk
+          path: source/build/app/outputs/flutter-apk/app-release.apk
+          if-no-files-found: error
+
+      - name: Create GitHub Release with the APK
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v0.4.1-build${{ github.run_number }}
+          name: Dawwarha 0.4.1 - build ${{ github.run_number }}
+          generate_release_notes: true
+          files: source/build/app/outputs/flutter-apk/app-release.apk

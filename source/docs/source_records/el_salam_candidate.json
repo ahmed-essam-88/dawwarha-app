@@ -1,0 +1,18 @@
+[
+ {
+  "name": "El-Salam Paper Mill",
+  "name_ar": "مصنع السلام للورق",
+  "address": "El-Salam Street, Moharem Bek, Alexandria (site data); EL-Kabary Road, Industrial Zone (home page text)",
+  "phone": "+20 3 3612794",
+  "lat": 31.17497565667561,
+  "lon": 29.906942721769298,
+  "materials": [
+   "paper"
+  ],
+  "note_en": "A paper factory. It lists cardboard and waste paper as materials it uses. Public drop-off is NOT confirmed, and the pin is the coordinate the company publishes for itself, not a confirmed gate. Call before going.",
+  "note_ar": "مصنع ورق. بيذكر الكرتون والورق المستعمل كخامات للمصنع. استقبال الأفراد مش مؤكد، والنقطة هي الإحداثيات اللي الشركة نشرتها عن نفسها مش بوابة مؤكدة. اتصل قبل ما تروح.",
+  "source": "Company website structured data (elsalampapermill.com, read 25 Nov 2026); phone and materials from ENF Recycling Directory, updated 21 Oct 2025",
+  "source_ar": "بيانات موقع الشركة (elsalampapermill.com، اتقرت 25 نوفمبر 2026)؛ التليفون والخامات من دليل ENF للتدوير، تحديث 21 أكتوبر 2025",
+  "source_url": "https://www.elsalampapermill.com"
+ }
+]

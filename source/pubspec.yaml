@@ -1,0 +1,54 @@
+name: environmental_challenges
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.4.1+11
+
+environment:
+  sdk: ^3.14.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_secure_storage: ^11.2.0
+  geolocator: ^14.1.2
+  image: ^4.13.1
+  image_picker: ^1.2.4
+  onnxruntime: ^1.4.1
+  path_provider: ^2.1.5
+  provider: ^6.1.5+1
+  share_plus: ^13.3.1
+  shared_preferences: ^2.5.6
+  url_launcher: ^6.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+dependency_overrides:
+  shared_preferences_android: 2.4.10
+  path_provider_android: 2.2.17
+  onnxruntime:
+    path: ../plugins/onnxruntime
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+    - assets/models/
+  fonts:
+    - family: NotoEmoji
+      fonts:
+        - asset: assets/fonts/NotoEmoji.ttf
+    - family: NotoSans
+      fonts:
+        - asset: assets/fonts/NotoSans-Regular.ttf
+        - asset: assets/fonts/NotoSans-Bold.ttf
+          weight: 700
+    - family: NotoNaskh
+      fonts:
+        - asset: assets/fonts/NotoNaskhArabic-Regular.ttf
+        - asset: assets/fonts/NotoNaskhArabic-Bold.ttf
+          weight: 700

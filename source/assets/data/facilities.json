@@ -1,0 +1,25 @@
+[
+ {
+  "name_en": "Tilestic (plastic recycler)",
+  "name_ar": "Tilestic (شركة تدوير بلاستيك)",
+  "address_en": "538 Malk Hafny Street, Alexandria",
+  "address_ar": "538 شارع ملك حفني، الإسكندرية",
+  "info_en": "Directory lists it as processing HDPE, LDPE, PET and PP into flakes. This describes the plant, not drop-off by the public. Call before going.",
+  "info_ar": "الدليل بيذكر إنها بتعالج HDPE وLDPE وPET وPP وتطلعها رقائق. ده وصف للمصنع مش استقبال من الأفراد. اتصل قبل ما تروح.",
+  "source": "ENF Recycling Directory, last update 30 Aug 2026",
+  "source_ar": "دليل ENF للتدوير، آخر تحديث 30 أغسطس 2026",
+  "url": "https://ar.enfplastic.com/tilestic"
+ },
+ {
+  "name_en": "Banlastic Egypt (NGO against single-use plastic)",
+  "name_ar": "بانلاستيك مصر (مبادرة ضد البلاستيك أحادي الاستخدام)",
+  "address_en": "23 El-Nasr St, Mansheya, Alexandria",
+  "address_ar": "23 شارع النصر، المنشية، الإسكندرية",
+  "phone": "+20 100 304 2404",
+  "info_en": "An Alexandria initiative, not a collection center. Contact them to ask whether they take or know of collection points.",
+  "info_ar": "مبادرة في الإسكندرية، مش مركز تجميع. تواصل معاهم تسأل لو بياخدوا أو يعرفوا نقط تجميع.",
+  "source": "Banlastic Egypt website (contact page)",
+  "source_ar": "موقع بانلاستيك مصر (صفحة التواصل)",
+  "url": "https://banlasticegypt.com"
+ }
+]

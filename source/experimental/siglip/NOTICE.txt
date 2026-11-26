@@ -1,0 +1,9 @@
+Experimental scanner model attribution
+
+Model: google/siglip-base-patch16-224 (SigLIP, Zhai et al., "Sigmoid Loss for Language Image Pre-Training").
+Licence: Apache License 2.0, as stated in the model card front matter of https://huggingface.co/google/siglip-base-patch16-224
+(the model repository has no separate LICENSE file; reference code https://github.com/google-research/big_vision is Apache-2.0,
+https://raw.githubusercontent.com/google-research/big_vision/main/LICENSE). Training data (WebLI) is not open and its terms were not reviewed.
+Changes made here: vision tower only exported to ONNX, MatMul weights stored as per-channel int8 with DequantizeLinear (weight-only),
+text embeddings for fixed prompts precomputed (siglip_text.json). No retraining.
+Ship this file (and the Apache-2.0 text) with any build that includes the model.
